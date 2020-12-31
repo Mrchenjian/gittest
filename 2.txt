@@ -1,0 +1,500 @@
+   17  git remote add origin https://github.com/Mrchenjian/movetoutiao.git
+   18  git  push  origin  gh-pages
+   19  git remote add origin https://github.com/Mrchenjian/movetoutiao.git
+   20  git  push  origin  gh-pages
+   21  git remote add origin https://github.com/Mrchenjian/movetoutiao.git
+   22  git init
+   23  git add .
+   24   git commit -m  ''
+   25   git commit -m  'init'
+   26  git status
+   27  git branch gh-pages 
+   28  git branch 
+   29  git remote add origin https://github.com/Mrchenjian/movetoutiao.git
+   30  git  push  origin  gh-pages
+   31  git add .
+   32  git  commit -m  '提交.github文件'
+   33  git  push  origin  gh-pages
+   34  git  push  origin  gh-pages
+   35  git remote add origin https://github.com/Mrchenjian/movetoutiao.git
+   36  git  push  origin  gh-pages
+   37  git  push  origin  gh-pages
+   38  git  log
+   39  git  push  origin  gh-pages  -f
+   40  git push
+   41  checkout gh-pages 
+   42  git branch
+   43  git checkout gh-pages 
+   44  git push
+   45  git push
+   46  git push  -f
+   47  git status
+   48  git add .
+   49  git commit -m '.github文件'
+   50  git push
+   51   git push --set-upstream origin gh-pages
+   52  git checkout  master
+   53  git  add .
+   54  git commit - m  'first'
+   55  git commit -m  'first'
+   56  git push
+   57  git push --set-upstream origin master
+   58  git  init
+   59  git add  .
+   60  git commit  -m 'init'
+   61  123@DESKTOP-0HEFKQF MINGW64 ~/Desktop/老师代码/年后/topline-m-89/dist (master)
+   62  $ git  init
+   63  Initialized empty Git repository in C:/Users/123/Desktop/老师代码/年后/topline-m-89/dist/.git/
+   64  123@DESKTOP-0HEFKQF MINGW64 ~/Desktop/老师代码/年后/topline-m-89/dist (master)
+   65  $ git add  .
+   66  warning: LF will be replaced by CRLF in js/app.bd3e9769.js.
+   67  The file will have its original line endings in your working directory
+   68  warning: LF will be replaced by CRLF in js/chunk-00f6761e.535b33e0.js.
+   69  The file will have its original line endings in your working directory
+   70  warning: LF will be replaced by CRLF in js/chunk-0a5408fb.66d4e8ba.js.
+   71  The file will have its original line endings in your working directory
+   72  warning: LF will be replaced by CRLF in js/chunk-2d0a2e01.4510ce36.js.
+   73  The file will have its original line endings in your working directory
+   74  warning: LF will be replaced by CRLF in js/chunk-2d217eac.30e3397c.js.
+   75  The file will have its original line endings in your working directory
+   76  warning: LF will be replaced by CRLF in js/chunk-2d22d3d8.db249c2b.js.
+   77  The file will have its original line endings in your working directory
+   78  warning: LF will be replaced by CRLF in js/chunk-393a46dd.f1547992.js.
+   79  The file will have its original line endings in your working directory
+   80  warning: LF will be replaced by CRLF in js/chunk-43d0c940.4ade3c5d.js.
+   81  The file will have its original line endings in your working directory
+   82  warning: LF will be replaced by CRLF in js/chunk-55ddb826.30513908.js.
+   83  The file will have its original line endings in your working directory
+   84  warning: LF will be replaced by CRLF in js/chunk-64a891c5.479aea50.js.
+   85  The file will have its original line endings in your working directory
+   86  warning: LF will be replaced by CRLF in js/chunk-7a193ee0.e68945b3.js.
+   87  The file will have its original line endings in your working directory
+   88  warning: LF will be replaced by CRLF in js/chunk-92312414.05a39124.js.
+   89  The file will have its original line endings in your working directory
+   90  warning: LF will be replaced by CRLF in js/chunk-d0f9827e.2f4739dc.js.
+   91  The file will have its original line endings in your working directory
+   92  warning: LF will be replaced by CRLF in js/chunk-vendors.ed389541.js.
+   93  The file will have its original line endings in your working directory
+   94  123@DESKTOP-0HEFKQF MINGW64 ~/Desktop/老师代码/年后/topline-m-89/dist (master)
+   95  $ git commit  -m 'init'
+   96  [master (root-commit) 8a808ff] init
+   97   44 files changed, 141 insertions(+)
+   98   create mode 100644 .github/workflows/main.yml
+   99   create mode 100644 CNAME
+  100   create mode 100644 css/app.335bd5c5.css
+  101   create mode 100644 css/chunk-00f6761e.736b8492.css
+  102   create mode 100644 css/chunk-0a5408fb.7dd45189.css
+  103   create mode 100644 css/chunk-393a46dd.044fcce5.css
+  104   create mode 100644 css/chunk-43d0c940.ae4e7131.css
+  105   create mode 100644 css/chunk-55ddb826.369496d3.css
+  106   create mode 100644 css/chunk-7a193ee0.c8f87e1a.css
+  107   create mode 100644 css/chunk-92312414.7f22400f.css
+  108   create mode 100644 css/chunk-d0f9827e.4e1db9bf.css
+  109   create mode 100644 css/chunk-vendors.1a591035.css
+  110   create mode 100644 favicon.ico
+  111   create mode 100644 img/banner.d43e3812.png
+  112   create mode 100644 img/logo-light.4653c8be.png
+  113   create mode 100644 index.html
+  114   create mode 100644 js/app.bd3e9769.js
+  115   create mode 100644 js/app.bd3e9769.js.map
+  116   create mode 100644 js/chunk-00f6761e.535b33e0.js
+  117   create mode 100644 js/chunk-00f6761e.535b33e0.js.map
+  118   create mode 100644 js/chunk-0a5408fb.66d4e8ba.js
+  119   create mode 100644 js/chunk-0a5408fb.66d4e8ba.js.map
+  120   create mode 100644 js/chunk-2d0a2e01.4510ce36.js
+  121   create mode 100644 js/chunk-2d0a2e01.4510ce36.js.map
+  122   create mode 100644 js/chunk-2d217eac.30e3397c.js
+  123   create mode 100644 js/chunk-2d217eac.30e3397c.js.map
+  124   create mode 100644 js/chunk-2d22d3d8.db249c2b.js
+  125   create mode 100644 js/chunk-2d22d3d8.db249c2b.js.map
+  126   create mode 100644 js/chunk-393a46dd.f1547992.js
+  127   create mode 100644 js/chunk-393a46dd.f1547992.js.map
+  128   create mode 100644 js/chunk-43d0c940.4ade3c5d.js
+  129   create mode 100644 js/chunk-43d0c940.4ade3c5d.js.map
+  130   create mode 100644 js/chunk-55ddb826.30513908.js
+  131   create mode 100644 js/chunk-55ddb826.30513908.js.map
+  132   create mode 100644 js/chunk-64a891c5.479aea50.js
+  133   create mode 100644 js/chunk-64a891c5.479aea50.js.map
+  134   create mode 100644 js/chunk-7a193ee0.e68945b3.js
+  135   create mode 100644 js/chunk-7a193ee0.e68945b3.js.map
+  136   create mode 100644 js/chunk-92312414.05a39124.js
+  137   create mode 100644 js/chunk-92312414.05a39124.js.map
+  138   create mode 100644 js/chunk-d0f9827e.2f4739dc.js
+  139   create mode 100644 js/chunk-d0f9827e.2f4739dc.js.map
+  140   create mode 100644 js/chunk-vendors.ed389541.js
+  141   create mode 100644 js/chunk-vendors.ed389541.js.map
+  142  123@DESKTOP-0HEFKQF MINGW64 ~/Desktop/老师代码/年后/topline-m-89/dist (master)
+  143  $
+  144  123@DESKTOP-0HEFKQF MINGW64 ~/Desktop/老师代码/年后/topline-m-89/dist (master)
+  145  $
+  146  git status
+  147  git remote add origin  https://github.com/Mrchenjian/movetoutiao.git
+  148  git push -u origin master
+  149  git remote add origin https://github.com/Mrchenjian/movetoutiao.git
+  150  git push -u origin master
+  151  git add .
+  152  git commit -m  '上传package-lock.json 文件'
+  153  git status
+  154  git  push
+  155  git add .
+  156  git commit -m  '删除package-lock.json'
+  157  git  push
+  158  git init  
+  159  git add  .
+  160  git  commit -m '所有文件'
+  161  git remote add origin https://github.com/Mrchenjian/movetoutiao.git
+  162  git push -u origin master
+  163  git push -f origin master
+  164  git add  .
+  165  git  commit -m '所有文件'
+  166  git push 
+  167  git push --set-upstream origin master
+  168  git push 
+  169  git push -f
+  170   git push --set-upstream origin master
+  171  git add  .
+  172  git add  commit -m '此版块正在开发中'
+  173  git  commit -m '此版块正在开发中'
+  174   git push
+  175   git push  -f
+  176   git push --set-upstream origin master
+  177   git push
+  178   git push --set-upstream origin master
+  179   git push  -f
+  180  git status
+  181  git push
+  182   git add .
+  183  git commit -m  '模块说明'
+  184  git push
+  185  git add 。
+  186  git add .
+  187  git commit -m '模块说明'
+  188  git push
+  189  git add .
+  190  git commit -m '模块说明'
+  191  git push
+  192  git clone https://github.com/zc3hd/Interview.git
+  193  git clone https://github.com/zc3hd/Interview.git
+  194  git clone https://github.com/zc3hd/Interview.git
+  195  git clone https://github.com/zc3hd/Interview.git
+  196  git clone https://github.com/zc3hd/Interview.git
+  197  git  clone https://github.com/youngshuyu/headline-m
+  198  git  clone
+  199  git  clone  https://github.com/lipengzhou/docsify-demo.git
+  200  git  clone  
+  201  git  clone   https://github.com/lipengzhou/typescript-tutorial.git
+  202  git  init
+  203  git add.
+  204  git add .
+  205  git commit  -m  'docsify'
+  206  git remote add origin https://github.com/Mrchenjian/docsify-demo.git
+  207  git push -u origin master
+  208  git init
+  209  git add .
+  210  git commit -m 'init'
+  211  git remote add origin https://github.com/Mrchenjian/docsify-demo.git
+  212  git push -u origin master
+  213  git push -u origin master  -f
+  214  git  init  
+  215  git  add .
+  216  git  commit -m 'init'
+  217  git  git
+  218   git
+  219  git remote add origin https://github.com/Mrchenjian/WeChat.git
+  220  git push -u origin master
+  221  git  clone  https://github.com/zc3hd/song.git
+  222  git  clone  https://github.com/zc3hd/song.git
+  223  git clone https://github.com/hexojs/hexo-theme-light.git
+  224  git clone https://github.com/hexojs/hexo-theme-light.git
+  225  git clone https://github.com/hexojs/hexo-theme-light.git
+  226  git  clone https://github.com/pengloo53/Hexo-theme-light_cn.git
+  227  git  clone https://github.com/pengloo53/Hexo-theme-light_cn.git
+  228  git clone https://github.com/iissnan/hexo-theme-next themes/next
+  229  git clone https://github.com/iissnan/hexo-theme-next themes/next
+  230  git init
+  231  git branch  Blog_Code
+  232  git branch  Blog_Codegit branch git branch  Blog_Codegit branch
+  233  git checkout -b BlogCode
+  234  git  add .
+  235  git commit -m  'first upload'
+  236  git push 
+  237  git push  remote  https://github.com/Mrchenjian/Mrchenjian.github.io
+  238  git push -f remote  https://github.com/Mrchenjian/Mrchenjian.github.io
+  239  git remote add origin https://github.com/Mrchenjian/Mrchenjian.github.io.git
+  240  git push
+  241   git push --set-upstream origin BlogCode
+  242  git add .
+  243  git add 。
+  244  git add 
+  245  git add  .
+  246  git status
+  247  git  add .
+  248  git commit -m  'two_three'
+  249  git push
+  250  git  branch
+  251  git  add .
+  252  git  status
+  253  git commit -m '4-2'
+  254  git status
+  255  git add .
+  256  git commit -m '4/2'
+  257  git staus
+  258  git status
+  259  git add .
+  260  git commit  'upload'
+  261  git commit  upload
+  262  git branch -a
+  263  git push
+  264  git push
+  265  git push
+  266  git clone
+  267  git clone https://github.com/dream2023/blog.git
+  268  git init 
+  269  git add .
+  270  git commit -m 'promise封装'
+  271  git push  https://github.com/Mrchenjian/DemoCode.git
+  272    git push --set-upstream https://github.com/Mrchenjian/DemoCode.git master
+  273  Mrchenjian
+  274    git push --set-upstream https://github.com/Mrchenjian/DemoCode.git master
+  275    git push --set-upstream https://github.com/Mrchenjian/DemoCode.git master
+  276  git add 。
+  277  git add .
+  278  git commit  -m 'promise.All原理'
+  279  git push
+  280  git push https://github.com/Mrchenjian/DemoCode.git
+  281  git push--help
+  282  git push --help
+  283  git remote add origin-push push https://github.com/Mrchenjian/DemoCode.git
+  284  git push 
+  285  git push
+  286  git push origin master
+  287  git push https://github.com/Mrchenjian/DemoCode.git
+  288  git push]
+  289  git add .
+  290  git commit -m  'promisAll'
+  291  git push
+  292  git status
+  293  git push origin https://github.com/Mrchenjian/DemoCode.git
+  294  git push origin https://github.com/Mrchenjian/DemoCode
+  295  git push origin https://github.com/Mrchenjian/DemoCode.git
+  296  git push 
+  297  git push 
+  298  git clone
+  299  git clone  https://github.com/Mrchenjian/DemoCode.git
+  300  git add .
+  301  git push
+  302  git add .
+  303  git commit  -m 'promiseAll'
+  304  git push 
+  305  git push 
+  306  git push
+  307  git push
+  308  git add .
+  309  git commit -m 'ui组件'
+  310  git push
+  311  git init 
+  312  git add .
+  313  git commit -m  'first'
+  314  git push -f https://github.com/Mrchenjian/4_17_-.git
+  315   git push --set-upstream https://github.com/Mrchenjian/4_17_-.git master
+  316  git add .
+  317  git commit  -m 'first_upload'
+  318  git remote add origin https://github.com/Mrchenjian/teacher.git
+  319  git push -u origin master
+  320  git init 
+  321  git add  .
+  322  git  commit  -m
+  323  git  commit  -m '哈哈'
+  324  git  status
+  325  git init
+  326  git add .
+  327  git commit -m '哈哈哈'
+  328  git push git remote add origin https://gitee.com/mrchenjian/first_code.git
+  329  git config --global user.name "独孤九剑"
+  330  git config --global user.email "1845230069@qq.com"
+  331  git remote add origin https://gitee.com/mrchenjian/first_code.git
+  332  git push -u origin master
+  333  git clone
+  334  git clone  https://github.com/axios/axios.git
+  335  git clone  https://github.com/cgq001/dingdong.git
+  336  git clone  https://github.com/zengxiaozeng/hello-uni-app.git
+  337  git clone https://github.com/cgq001/dingdong.git
+  338  https://gitee.com/jameson512/xiaoyibo.git
+  339  git clone  https://gitee.com/jameson512/xiaoyibo.git
+  340  git  clone  https://github.com/merciqiao/merciqiao-vue.git
+  341  git  clone  精简版git:https://github.com/merciqiao/vuejiaoxue.git
+  342  git  clone https://github.com/merciqiao/vuejiaoxue.git
+  343  cd  vuejiaoxue/
+  344  npm  i
+  345  git clone  https://github.com/taylorchen709/vue-admin.git
+  346  git clone https://github.com/harsima/vue-backend.git
+  347  git clone https://gitee.com/xiaoqiang001/pinyougoujingtaiyemian.git
+  348  git clone https://github.com/shuiruohanyu/90heimatoutiao.git
+  349  git  clone   https://github.com/shuiruohanyu/94--.git
+  350  git clone https://github.com/shuiruohanyu/94--.git
+  351  git  clone   https://github.com/shuiruohanyu/94--.git
+  352  git  clone  https://github.com/shuiruohanyu/89heimatoutiao.git
+  353  git clone   https://github.com/shuiruohanyu/89heimatoutiao.git
+  354  git clone  https://gitee.com/wBekvam/vue-shop-admin.git
+  355  git clone https://gitee.com/wBekvam/vue-shop-admin.git
+  356  git  add .
+  357  git init  
+  358  git add .
+  359  git commit  重置浏览器默认样式
+  360  git status
+  361  git remote add origin https://github.com/Mrchenjian/HTML5-CSS3.git
+  362  git push
+  363  git push --set-upstream origin master
+  364  git push --set-upstream origin master
+  365  git push -u origin master
+  366  cls
+  367  git remote add origin https://github.com/Mrchenjian/HTML5-CSS3.git
+  368  git push -u origin master
+  369  git remote add origin https://github.com/Mrchenjian/HTML5-CSS3.git
+  370  git branch -M master
+  371  git  init
+  372  git add 。
+  373  git add .
+  374  git commit "rest"
+  375  git commit  -m  "重置浏览器默认样式"
+  376  git remote add origin https://github.com/Mrchenjian/HTML5-CSS3.git
+  377  git push -u origin master
+  378  git  init  
+  379  git add .
+  380  git commit -m  "品优购"
+  381  git status
+  382  git push  https://github.com/Mrchenjian/HTML5-CSS3.git
+  383   git push --set-upstream https://github.com/Mrchenjian/HTML5-CSS3.git master
+  384   git push --set-upstream https://github.com/Mrchenjian/HTML5-CSS3.git master
+  385  git push  https://github.com/Mrchenjian/HTML5-CSS3.git
+  386  git push --set-upstream https://github.com/Mrchenjian/HTML5-CSS3.git master
+  387  git  clone  https://github.com/Mrchenjian/HTML5-CSS3.git
+  388  git add .
+  389  git  commit  -m  "品优购"
+  390  git push https://github.com/Mrchenjian/HTML5-CSS3.git
+  391    git push --set-upstream https://github.com/Mrchenjian/HTML5-CSS3.git master
+  392  git push --help
+  393  git remote  origin-push  https://github.com/Mrchenjian/HTML5-CSS3.git
+  394  git  clone  https://gitee.com/Assan/stock.git
+  395  git  clone  
+  396  git  clone  
+  397  git clone  https://gitee.com/itLinnnn/DuoShangWang.git
+  398  git clone https://gitee.com/yx102/plugin_demo.git
+  399  git  init
+  400  git add .
+  401  git commit -m 'upload'
+  402  git  status
+  403  git remote add origin https://github.com/Mrchenjian/vue-Excel-upload-and-open-file.git
+  404  git push -u origin 
+  405   git push --set-upstream origin master
+  406   git push --set-upstream origin master
+  407   git push --set-upstream origin master
+  408  git  status
+  409  git  commit -m 'sdad'
+  410  git  init 
+  411  git add .
+  412  git status
+  413  git commit -m  'excel 文件上传和导出'
+  414  git remote add origin https://gitee.com/mrchenjian/first_code.git
+  415  git push -u origin master
+  416  git  init  
+  417  git add .
+  418  git commit -m  '组件的封装'
+  419  git remote add origin https://gitee.com/mrchenjian/component-encapsulation.git
+  420  git push -u origin master
+  421  git  clone  https://github.com/coderwhy/HYMall.git
+  422  git clone https://github.com/coderwhy/LearnMiniProgram
+  423  git  clone  http://192.168.8.147:8000/swagger-ui.html#/%E6%9D%83%E7%9B%8A%E5%8D%A1%E6%9C%8D%E5%8A%A1/addCardUsingPOST
+  424  git clone http://8.129.73.116:8999
+  425  git clone http://cj@8.129.73.116:8999/r/coc_front.git 
+  426   git clone  
+  427  123@DESKTOP-0HEFKQF MINGW64 /g/vue B站电商后台项目/code
+  428  $ git   clone
+  429  git   clone 
+  430  123@DESKTOP-0HEFKQF MINGW64 /g/vue B站电商后台项目/code
+  431  $ git   clone
+  432  git clone https://gitee.com/vsdeveloper/vue_shop.git
+  433  git add .
+  434  git commit -m '第一次提交'
+  435  git status
+  436  git remote add origin https://gitee.com/mrchenjian/shop-management-system.git
+  437  git push -u origin master
+  438  git checkout -b classification
+  439  git branch
+  440  git push - u  origin classification
+  441  git push - u  origin classification
+  442  git push -u  origin classification
+  443  git clone  https://github.com/coderwhy/HYMall.git
+  444  git pwd
+  445  pwd
+  446  cd  c/
+  447  cd  123/
+  448  cd /123/
+  449   ls
+  450  cat 笔记.txt
+  451  git init  -y
+  452  git init 
+  453  cls
+  454  clear
+  455  cd/c/Users/123/Desktop/尚硅谷axios源码
+  456  cd/  c/Users/123/Desktop/尚硅谷axios源码
+  457  cd  c/Users/123/Desktop/尚硅谷axios源码
+  458  cd d
+  459  cd d:
+  460  cd ..
+  461  cd /c/Users/123/Desktop/尚硅谷axios源码
+  462  vi 
+  463  git add  .
+  464  git  status
+  465  git  checkout .
+  466  git status
+  467  git add .
+  468  git checkout 1.txt
+  469  git  status
+  470  git add .
+  471  git checkout 
+  472  git checkout  1.txt
+  473  cat 1.txt
+  474  git add .
+  475  git status
+  476  git  checkout 1.txt
+  477  git status
+  478  git add .
+  479  git checkout .
+  480  git status
+  481  git checkout .
+  482  git status 
+  483  git add .
+  484  git checkout .
+  485  git add .
+  486  git status
+  487  git checkout .
+  488  git status
+  489  git checkout .
+  490  git status
+  491  git add .
+  492  git status
+  493  git checkout 
+  494  git checkout  .
+  495  git checkout  .
+  496  git 
+  497  git status
+  498  git add .
+  499  git reset HEAD .
+  500  git reset HEAD .
+  501  git  init
+  502  git add .
+  503  git checkout .
+  504  git status
+  505  git checkout .
+  506  git  status
+  507  git commit -m 'upload'
+  508  git   add .
+  509  git status
+  510  git reset HEAD  1.txt
+  511  git checkout .
+  512  git status
+  513  history > 1.txt
+  514  git status
+  515  git checkout .
+  516  history > 2.txt
